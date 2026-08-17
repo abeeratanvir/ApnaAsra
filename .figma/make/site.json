@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your branding with an intuitive platform that helps businesses create, customize, and manage logos effortlessly for a professional identity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
